@@ -10,5 +10,5 @@ package com.mycompany.mavenproject1;
  * @author szkis
  */
 public class Main {
-    
+    System.out.println("");
 }
